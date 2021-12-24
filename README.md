@@ -62,7 +62,7 @@ ___
 ## Login Page
 &nbsp;
 
-![Login Page](readmeFileImages\loginpage.png "Login Page")
+![Login Page](readmeFileImages/loginpage.png "Login Page")
 
 &nbsp;
 #### Key Points
@@ -83,7 +83,7 @@ ___
 ## Student Portal
 &nbsp;
 
-![Student Portal](readmeFileImages\studentportal.png "Student Portal")
+![Student Portal](readmeFileImages/studentportal.png "Student Portal")
 
 &nbsp;
 #### Steps to Follow:
@@ -103,13 +103,13 @@ ___
 ### Images Retaled to Student Portal:
 &nbsp;
 
-![Registration Page](readmeFileImages\register.png "Register Yourself")
+![Registration Page](readmeFileImages/register.png "Register Yourself")
 &nbsp;
 
-![Mark Attendance](readmeFileImages\markattendence.png "Mark Attendance")
+![Mark Attendance](readmeFileImages/markattendence.png "Mark Attendance")
 &nbsp;
 
-![Support Section](readmeFileImages\supportimage.png "Support Section")
+![Support Section](readmeFileImages/supportimage.png "Support Section")
 
 &nbsp;
 
@@ -117,7 +117,7 @@ ___
 ## Admin Portal
 &nbsp;
 
-![Admin Portal](readmeFileImages\admin.png "Admin Page")
+![Admin Portal](readmeFileImages/admin.png "Admin Page")
 
 &nbsp;
 #### Steps to Follow:
@@ -133,10 +133,10 @@ ___
 ### Images Retaled to Admin Portal:
 &nbsp;
 
-![Train DataSet Section](readmeFileImages\traindataset.png "Train DataSet Section")
+![Train DataSet Section](readmeFileImages/traindataset.png "Train DataSet Section")
 &nbsp;
 
-![Download Attendance Portal](readmeFileImages\downloadattendance.png "Download Attendance Portal")
+![Download Attendance Portal](readmeFileImages/downloadattendance.png "Download Attendance Portal")
 
 &nbsp;
 
