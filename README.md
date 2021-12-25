@@ -141,12 +141,33 @@ ___
 &nbsp;
 
 ___
-## Some MySQL Settings
+## Some MySQL (Database) Settings
+
+* Install MySQL
+
 * These settings need to be done:
     1. host = "localhost"
     1. username = "root"
     1. password = "1234"
     1. database = "face_recognition_system"
+
+* After, Installing:
+   1. Create a database named: face_recognition_system
+   2. Inside that database create a table named: Student
+   3. Inside that table form different columns given below:
+      |Column Name|Data Type|Keys|
+      |:-:|:-:|:-:|
+      |StudentName|varchar(25)|
+      |StudentId|varchar(10)|PRI|
+      |CourseName|varchar(20)|
+      |UniRollNo|varchar(15)|UNI|
+      |RollNo|varchar(10)|
+      |Section|varchar(10)|
+      |Department|varchar(20)|
+      |Semester|varchar(10)|
+      |Gender|varchar(10)|
+      |DOB|date|
+      |MobileNo|varchar(10)|
 
 
 ## Important Notes
