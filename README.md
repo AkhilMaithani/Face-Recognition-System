@@ -179,4 +179,5 @@ ___
 * Please Don't delete any file
 * Please Install all the dependencies
 * Delete __Dummy Image__ from __data folder__ before executing the project otherwise it will not give appropriate result
+* Delete contents inside CSV file i.e __student_attendence.csv__ before executing the project otherwise it will not give appropriate result
 * If any error occur _Please_ __Google it!__ 😂😂
