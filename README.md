@@ -176,6 +176,8 @@ ___
 
 ___
 ## Important Notes
+
+* Start execution of the project from __login.py__ file
 * Please Don't delete any file
 * Please Install all the dependencies
 * Delete __Dummy Image__ from __data folder__ before executing the project otherwise it will not give appropriate result
