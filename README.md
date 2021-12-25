@@ -152,9 +152,11 @@ ___
     1. database = "face_recognition_system"
 
 * After, Installing:
+   
    1. Create a database named: face_recognition_system
    2. Inside that database create a table named: Student
    3. Inside that table form different columns given below:
+  
       |Column Name|Data Type|Keys|
       |:-:|:-:|:-:|
       |StudentName|varchar(25)|
