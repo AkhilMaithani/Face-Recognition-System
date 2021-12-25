@@ -172,8 +172,11 @@ ___
       |MobileNo|varchar(10)|
 
 
+&nbsp;
+
+___
 ## Important Notes
-* Don't delete any file
+* Please Don't delete any file
 * Please Install all the dependencies
-* Delete Dummy Image from data folder before executing the project otherwise it will show error
-* If any error occur __Google it!__ 😂😂
+* Delete __Dummy Image__ from __data folder__ before executing the project otherwise it will not give appropriate result
+* If any error occur _Please_ __Google it!__ 😂😂
