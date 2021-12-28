@@ -15,7 +15,7 @@ ___
 
 ___
 ## Dependencies ( Windows Oriented )
-* Your system must have Python [Download Link](https://www.python.org/downloads/)
+* Your system must have Python [Download Link](https://www.python.org/downloads/ "https://www.python.org/downloads/")
 
     * Check after installing:
 
