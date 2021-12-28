@@ -14,7 +14,7 @@ ___
 &nbsp;
 
 ___
-## Dependencies [Windows Oriented]
+## Dependencies ( Windows Oriented )
 * Your system must have Python [Download Link](https://www.python.org/downloads/)
 
     * Check after installing:
