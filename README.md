@@ -1,9 +1,20 @@
 # Face Recognition Attendance System
-It is a basic Face Recognition Attendance System, which is used to take attendance of students.
 
-&nbsp;
+<p><em><strong>Face recognition</strong></em> is a method of identifying or verifying a person's identity using their face. Face recognition systems can be used to identify people in photos, videos or in real-time.<br>
+In this project, we verify or identify a person through real time so that a person can mark his presence efficiently.</p>
 
-___
+<p><strong><em>Note: Please follow the below mentioned procedures to make this project run efficiently.</em></strong></p>
+
+<br>
+<p>
+   <img src="https://img.shields.io/badge/%20-Python-blue" alt="python">&nbsp;
+   <img src="https://img.shields.io/badge/%20-Tkinter-orange" alt="Tkinter">&nbsp;
+   <img src="https://img.shields.io/badge/%20-MySQL-green" alt="MySQL">&nbsp;
+   <img src="https://img.shields.io/badge/%20-OpenCv-red" alt="OpenCv">&nbsp;
+</p>
+
+<hr>
+
 ## Technology Used
 1. Front End (UI part): Tkinter
 1. Database: MySQL
@@ -11,9 +22,8 @@ ___
 1. Object Detection Algorithm: Haar Cascade
 1. Face Recognition Algorithm: LBPH (Local Binary Pattern Histogram)
 
-&nbsp;
+<hr>
 
-___
 ## Dependencies ( Windows Oriented )
 * Your system must have Python [Download Link](https://www.python.org/downloads/ "https://www.python.org/downloads/")
 
@@ -55,10 +65,8 @@ ___
 
 > __Note:__ Install all the dependencies according to your system
 
+<hr>
 
-&nbsp;
-
-___
 ## Login Page
 &nbsp;
 
@@ -111,9 +119,8 @@ ___
 
 ![Support Section](readmeFileImages/supportimage.png "Support Section")
 
-&nbsp;
+<hr>
 
-___
 ## Admin Portal
 &nbsp;
 
@@ -138,9 +145,8 @@ ___
 
 ![Download Attendance Portal](readmeFileImages/downloadattendance.png "Download Attendance Portal")
 
-&nbsp;
+<hr>
 
-___
 ## Some MySQL (Database) Settings
 
 * Install MySQL
@@ -171,10 +177,8 @@ ___
       |DOB|date|
       |MobileNo|varchar(10)|
 
+<hr>
 
-&nbsp;
-
-___
 ## Important Notes
 
 * Start execution of the project from __login.py__ file
